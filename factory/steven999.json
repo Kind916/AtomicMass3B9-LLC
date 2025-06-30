@@ -2,7 +2,9 @@
 	"name": "steven999",
 	"properties": {
 		"globalConfigurations": {
-			"PolicyValidationEnabled": "true"
+			"PolicyValidationEnabled": "true",
+			"factoryStagingLSReferenceName": "AzureDataLakeStorage1",
+			"factoryStagingLSType": "LinkedServiceReference"
 		}
 	},
 	"location": "eastus",

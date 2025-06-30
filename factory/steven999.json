@@ -4,7 +4,8 @@
 		"globalConfigurations": {
 			"PolicyValidationEnabled": "true",
 			"factoryStagingLSReferenceName": "AzureDataLakeStorage1",
-			"factoryStagingLSType": "LinkedServiceReference"
+			"factoryStagingLSType": "LinkedServiceReference",
+			"factoryStagingFolderPath": "dataverse-salestrial-unq2394aaa0a946f011be526045bd016"
 		}
 	},
 	"location": "eastus",

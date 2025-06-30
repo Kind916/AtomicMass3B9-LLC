@@ -1,0 +1,14 @@
+{
+	"name": "steven999",
+	"properties": {
+		"globalConfigurations": {
+			"PolicyValidationEnabled": "true"
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3b0561cc-2084-44c7-8472-584e147c269f",
+		"tenantId": "7476326a-7e4a-4970-ae7d-188d48e96a7f"
+	}
+}

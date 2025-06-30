@@ -1,0 +1,15 @@
+{
+	"name": "AzureDataExplorer1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDataExplorer",
+		"typeProperties": {
+			"endpoint": "https://myfreecluster333.northcentralus.kusto.windows.net",
+			"tenant": "7476326a-7e4a-4970-ae7d-188d48e96a7f",
+			"servicePrincipalId": "stevenyagel@atomicmass3b9196.onmicrosoft.com",
+			"database": "MyDatabase",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDZCRjAzNkY4LTg2RjEtNDM0Ni04Q0RFLTJFRTkwNTVGOERCQl8wNTc4ZGRiNi0wMWU0LTRkMGItOTdmYS1kNzU0MGIyNWE0MjgiDQp9"
+		}
+	}
+}
